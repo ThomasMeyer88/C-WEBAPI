@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Thomas\\C#WEBAPI\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Thomas\\C#WEBAPI\\webapi\\WebAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Thomas\\C#WEBAPI\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Thomas\\C#WEBAPI\\webapi\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Thomas\\C#WEBAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Thomas\\C#WEBAPI\\webapi\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "c:\\Users\\Thomas\\C#WEBAPI\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Thomas\\C#WEBAPI\\webapi\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Thomas\\C#WEBAPI\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Thomas\\C#WEBAPI\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,13 +47,25 @@
               "target": "Package",
               "version": "[8.0.8, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.8, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.8.1, )"
             }
           },
           "imports": [
